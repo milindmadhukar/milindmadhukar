@@ -20,4 +20,7 @@
     <a href="https://github.com/Programming-Addicts/BookSplore">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Programming-Addicts&repo=BookSplore&theme=radical" width="380" alt="Booksplore">
     </a>
+    <a href="https://github.com/milindmadhukar/dotfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=milindmadhukar&repo=dotfiles&theme=radical" width="380" alt="Dotfiles">
+    </a>
  </p>
