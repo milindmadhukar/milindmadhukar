@@ -1,6 +1,9 @@
-![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindmadhukar&count_private=true&show_icons=true&theme=radical)
+## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milindmadhukar&count_private=true&theme=radical&hide=HTML,TeX,Vim_Script)
+<p align="center"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=milindmadhukar&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height=180px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindmadhukar&theme=radical" height=180px/>
+</p>
 
 ## Top Projects
 
@@ -25,9 +28,6 @@
     </a>
  </p>
  
- ## Github Stats
 
-<p align="center"> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=milindmadhukar&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height=180px />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindmadhukar&theme=radical" height=180px/>
-</p>
+
+
