@@ -24,3 +24,10 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=milindmadhukar&repo=dotfiles&theme=radical" width="380" alt="Dotfiles">
     </a>
  </p>
+ 
+ ## Github Stats
+
+<p align="center"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=milindmadhukar&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height=180px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindmadhukar&theme=radical" height=180px/>
+</p>
