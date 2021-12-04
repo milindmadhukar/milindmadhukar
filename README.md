@@ -3,6 +3,7 @@
 <p align="center"> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=milindmadhukar&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height=180px />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindmadhukar&theme=radical" height=180px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindmadhukar&hide=shell&theme=radical&layout=compact" height=180px/>
 </p>
 
 ## Top Projects
