@@ -42,6 +42,9 @@
 ## Top Projects
 
 <p align="center">
+    <a href="https://github.com/plusxhub/plusxplay">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=plusxhub&repo=plusxplay&theme=radical" width="380" alt="PlusXPlay">
+    </a>
     <a href="https://github.com/milindmadhukar/go-piston">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=milindmadhukar&repo=go-piston&theme=radical" width="380" alt="Go-Piston">
     </a>
@@ -56,9 +59,6 @@
     </a>
     <a href="https://github.com/Programming-Addicts/BookSplore">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Programming-Addicts&repo=BookSplore&theme=radical" width="380" alt="Booksplore">
-    </a>
-    <a href="https://github.com/milindmadhukar/dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=milindmadhukar&repo=dotfiles&theme=radical" width="380" alt="Dotfiles">
     </a>
  </p>
  
